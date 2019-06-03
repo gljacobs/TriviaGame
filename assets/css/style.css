@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://images4.alphacoders.com/289/thumb-1920-289924.jpg");
+    color: white;
+    float: right;
+    text-align: center;
+}
+.container {
+    background-color: rgba(0,0,0, 0.4);
+    padding: 10px;
+}
+#submit {
+    margin-top: 20px;
+}
