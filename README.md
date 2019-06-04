@@ -4,7 +4,7 @@
 
 [Click here to check out the site!](https://gljacobs.github.io/TriviaGame/)
 
-![alt text](assets/images/scrnsht.png)
+![alt text](assets/images/scrnsht1.png)
 
 ## Technologies used:
 * HTML 
